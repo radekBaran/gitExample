@@ -25,10 +25,9 @@
         <entry file="file://$PROJECT_DIR$/src/git_example/Calc.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
-                <element signature="e#112#113#0" expanded="true" />
-                <element signature="e#163#164#0" expanded="true" />
+                <marker date="1478775134246" expanded="true" signature="111:114" ph=" { " />
               </folding>
             </state>
           </provider>
@@ -37,8 +36,8 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7445">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -61,7 +60,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/git_example/Calc.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -403,13 +402,6 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="3fe6e247-a56b-4c83-997c-6dd011c52b1e" name="Default" comment="" />
-      <created>1478773209530</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1478773209530</updated>
-    </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -462,8 +454,7 @@
         <state relative-caret-position="126">
           <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
           <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
+            <marker date="1478775134246" expanded="true" signature="111:114" ph=" { " />
           </folding>
         </state>
       </provider>
@@ -471,18 +462,17 @@
     <entry file="file://$PROJECT_DIR$/src/git_example/Calc.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
+            <marker date="1478775134246" expanded="true" signature="111:114" ph=" { " />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7445">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
