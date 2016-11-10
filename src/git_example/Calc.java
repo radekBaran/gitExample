@@ -8,7 +8,9 @@ public class Calc {
 
         System.out.println("Wprowadz a i b");
         int a = input.nextInt();
-        int b = input.nextInt();
+        int bbbbb = input.nextInt();
+        int x = input.nextInt();
+        int y = input.nextInt();
 
         System.out.println("Suma: " + (a + b));
     }
